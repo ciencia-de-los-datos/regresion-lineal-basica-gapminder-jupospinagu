@@ -22,7 +22,7 @@ def pregunta_01():
     y = df['life'].to_numpy()
     X = df['fertility'].to_numpy()
     # Imprima las dimensiones de `y`
-    print(y.shape)
+     print(y.shape)
 
     # Imprima las dimensiones de `X`
     print(X.shape)
